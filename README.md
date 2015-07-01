@@ -1,0 +1,1 @@
+Tellki Solr Availability Monitor
